@@ -1,16 +1,62 @@
-### Hi there 👋
+# it-1024
+> 资源下载管理系统
 
-<!--
-**it-1024/it-1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 前端部分页面展示
 
-Here are some ideas to get you started:
+![](https://i.loli.net/2020/09/11/qhAVGb176lzOTsj.png "首页")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://i.loli.net/2020/09/11/HPqY6rNUMp3tKnx.png "下载页")
+
+![](https://i.loli.net/2020/09/11/UPg8EZtmhXyfeLT.png "登录页")
+
+### 基本功能
+- [x]  用户注册、登录
+- [x]  查看详细资源信息与下载
+- [x]  发布资源与图片信息
+- [x]  积分充值
+- [x]  管理用户（删除、禁用）
+- [x]  查看资源文章、用户、下载、收益等数据分析、
+
+### 开发相关技术说明
+- 前端
+  - vue
+  - vuex
+  - element-ui
+  - echarts
+  - axios
+  - bootstrap
+  - qrcodejs
+  - jquery
+- 后端
+  - mysql 5.6
+  - php 5.6
+
+### 说明
+- 个人学习使用遵循GPL开源协议
+- 商用联系作者付费授权使用
+### [捐赠](http://m.it-1024.net/pay.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
