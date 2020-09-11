@@ -3,9 +3,9 @@
 
 ### 前端部分页面展示
 
-![](https://i.loli.net/2020/09/11/qhAVGb176lzOTsj.png "首页")
-![](https://i.loli.net/2020/09/11/HPqY6rNUMp3tKnx.png "下载页")
-![](https://i.loli.net/2020/09/11/UPg8EZtmhXyfeLT.png "登录页")
+![](https://i.loli.net/2020/09/11/qhAVGb176lzOTsj.png "首页")<br>
+![](https://i.loli.net/2020/09/11/HPqY6rNUMp3tKnx.png "下载页")<br>
+![](https://i.loli.net/2020/09/11/UPg8EZtmhXyfeLT.png "登录页")<br>
 
 ### 基本功能
 - [x]  用户注册、登录
